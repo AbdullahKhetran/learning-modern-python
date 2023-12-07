@@ -1,3 +1,5 @@
+### NOTE: This repo is [forked](https://github.com/panaverse/learn-modern-python) from the commit [55a471c](https://github.com/panaverse/learn-modern-python/commit/55a471cea49e12693459cc763ce07cd7f3154a16)
+
 # Learn Modern Python for Data Analysis
 
 This course is part of the [GenAI, Web 3, and Metaverse Program](https://docs.google.com/presentation/d/1XVSZhmv4XH14YpyDxJIvYWiUrF1EO9tsUnle17wCLIc/edit?usp=sharing)
